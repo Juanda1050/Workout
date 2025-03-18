@@ -1,8 +1,11 @@
+import { Button } from '@/components/ui/button'
 import React from 'react'
 
 const Login = () => {
   return (
-    <div>Login</div>
+    <div>
+        <Button>Button</Button>
+    </div>
   )
 }
 
